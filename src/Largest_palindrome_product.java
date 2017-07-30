@@ -23,7 +23,7 @@ public class Largest_palindrome_product {
 				}
 			}
 			System.out.println(maxNum);
-			t--;
+			t--; 
 		}
 	}
 
