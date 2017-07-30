@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class Even_Fibonacci_numbers {
+public class Even_Fibonacci_numbers { 
 
 	public static void main(String[] args) {
 		Scanner input = new Scanner(System.in);
