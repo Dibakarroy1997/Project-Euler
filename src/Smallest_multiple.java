@@ -38,6 +38,7 @@ public class Smallest_multiple {
 			System.out.println(result);
 			t--;
 		}
+		input.close();
 
 	}
 }

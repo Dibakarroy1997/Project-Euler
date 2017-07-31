@@ -18,5 +18,6 @@ public class Multiples_of_3_and_5 {
             sum = sum - ((fifteen_mul*(fifteen_mul+1))*15)/2;
             System.out.println(sum);
         }
+        in.close();
     }
 }

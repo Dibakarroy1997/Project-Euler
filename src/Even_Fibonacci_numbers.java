@@ -11,6 +11,7 @@ public class Even_Fibonacci_numbers {
 			a = 0;
 			b = 2;
 			range = input.nextLong();
+			input.close();
 			sum = b;
 			while (b <= range) {
 				sum+=show;

@@ -58,5 +58,6 @@ public class Largest_prime_factor {
 				System.out.println(largestFactor);
 			}
 		}
+		input.close();
 	}
 }

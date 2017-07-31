@@ -17,5 +17,6 @@ public class Sum_square_difference {
 			System.out.println(squareOfSum - sumOfSquare);
 			t--;
 		}
+		input.close();
 	}
 }

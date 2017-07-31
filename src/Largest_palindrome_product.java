@@ -5,7 +5,6 @@ public class Largest_palindrome_product {
 	public static void main(String[] args) {
 		Scanner input = new Scanner(System.in);
 		int t, n, maxNum, checkNum;
-		String checkStr;
 
 		t = input.nextInt();
 
@@ -25,6 +24,7 @@ public class Largest_palindrome_product {
 			System.out.println(maxNum);
 			t--; 
 		}
+		input.close();
 	}
 
 	public static int reverse(int checkNum) {
